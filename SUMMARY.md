@@ -31,10 +31,7 @@
 * [What Makes an eCommerce Migration Complex?](strategy-and-planning-for-migration/building-a-migration-business-case-cost-risk-and-roi.md)
 * [Choosing the Right Migration Approach](strategy-and-planning-for-migration/migration-roadmap-timeline-milestones-and-decision-points.md)
 * [Planning an eCommerce Migration Project](strategy-and-planning-for-migration/quickstart.md)
-* [Planning Migration Validation and Acceptance Criteria](strategy-and-planning-for-migration/quickstart-1/README.md)
-  * [What to Prepare Before You Purchase a Migration Service](strategy-and-planning-for-migration/quickstart-1/quickstart.md)
-  * [Data Mapping Strategy: Structuring Data for the Target Platform](strategy-and-planning-for-migration/quickstart-1/quickstart-1.md)
-  * [Dirty Data Cleanup: How to Fix Common Data Quality Problems](strategy-and-planning-for-migration/quickstart-1/quickstart-2.md)
+* [Planning Migration Validation and Acceptance Criteria](strategy-and-planning-for-migration/quickstart-1.md)
 
 ## Next-Cart Migration Service
 
