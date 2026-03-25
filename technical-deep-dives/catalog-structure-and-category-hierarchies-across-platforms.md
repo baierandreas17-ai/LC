@@ -1,0 +1,195 @@
+# Catalog Structure and Category Hierarchies Across Platforms
+
+A catalog can look complete after migration and still become harder to navigate.
+
+That usually happens when the source and target platforms do not organize product discovery in the same way. Categories may still exist, products may still be assigned somewhere, and category pages may still appear populated. But if hierarchy logic, grouping rules, assignment behavior, or merchandising order changes, the browsing paths customers rely on can weaken quickly. In practice, the issue is not whether the catalog moved. The issue is whether customers can still reach the right products through the paths that drive discovery and conversion.
+
+This matters most in stores where category browsing is a primary way customers shop, where the catalog is deeply layered, or where category pages carry commercial weight beyond simple organization. A category structure often does more than group products. It helps define browse intent, shapes how shoppers narrow choices, influences which products are seen first, and in many stores supports landing-page behavior that affects both conversion and search visibility.
+
+### What catalog structure really includes
+
+Catalog structure is broader than the category tree alone.
+
+In most stores, it includes:
+
+* categories and subcategories
+* collections, groupings, or other browse structures
+* product assignment logic
+* manual ordering or featured placement
+* sorting defaults
+* category-page content or landing-page intent
+* the browse paths customers use to move from category pages to product pages
+
+That is why category migration should not be judged only by whether names and parent-child relationships appear in the target store. A structurally correct catalog also needs to preserve how products are surfaced, how categories feel to browse, and how category paths support the buying journey.
+
+### Categories are independent entities with relationship meaning
+
+Categories are independent entities that connect to products.
+
+That relationship matters because category structure is not only a navigation device. It is part of how the store expresses product discovery intent. If category assignment changes, products may still exist in the catalog while becoming harder to find through the browse paths customers actually use. When layered categories carry commercial meaning, assignment accuracy and hierarchy logic become part of relationship preservation, not just visual organization.
+
+This is also why category behavior should be reviewed as a customer journey, not as an isolated data list. A product being somewhere in the catalog is not the same as being in the right discovery path.
+
+### Why navigation breaks during migration
+
+Navigation usually weakens for structural reasons rather than because categories disappear entirely.
+
+Common causes include:
+
+#### Different hierarchy rules
+
+Some platforms treat categories as a strict tree. Others rely more heavily on collections, flexible groupings, or menu-driven structures. If the source store depends on one model and the target represents category relationships differently, the browsing experience can change even when most category records are present.
+
+#### Assignment shifts
+
+A category can remain in place while the product set inside it changes meaningfully. Even small differences in assignment logic can change where products appear, which categories feel thin, and which ones feel overloaded. This is especially visible in large catalogs or stores with layered navigation logic.
+
+#### Ordering and merchandising changes
+
+Products may still be assigned to the correct category while appearing in a less effective order. Manual ordering, featured products, curated lists, and default sorting behavior often influence what shoppers see first. Those shifts can change browsing quality and commercial performance even when the underlying product list is technically correct.
+
+#### Landing-page intent changes
+
+Some category pages behave like landing pages, not just browse containers. They may carry descriptive copy, internal links, visual emphasis, or curated product sets that shape both shopper expectations and search-entry behavior. If that intent changes, the category may still exist while the page no longer performs the same role.
+
+#### Inconsistent category data
+
+Messy or duplicated category naming, uneven structures, and workaround-driven groupings often become harder to interpret during migration. What previously functioned through habit or platform tolerance can become much less clear when moved into a different structural model.
+
+### Where platforms differ most
+
+Platforms differ in several ways that matter directly to browse behavior:
+
+* whether they emphasize strict category trees or more flexible groupings
+* how products can appear across multiple category paths
+* how dynamic or rules-based grouping is represented
+* how much merchandising control is native versus extension-driven
+* how category hierarchy is expressed in storefront navigation rather than only in data structure
+
+These differences matter because customers do not shop category logic abstractly. They experience it through menus, browse pages, filtered category paths, product ordering, and the ease of reaching relevant products. A migration can therefore preserve category data while still changing discovery behavior in ways that are commercially important.
+
+### Where extensions and custom logic raise the risk
+
+Many stores rely on more than the core platform to shape catalog navigation.
+
+Apps, modules, plugins, custom menu structures, rules-based groupings, merchandising tools, and theme logic may influence:
+
+* how category hierarchy is displayed
+* which products appear in specific groupings
+* which products are featured first
+* how landing pages are structured
+* how customers move from menus to category pages to products
+
+In those cases, the migration question is not only whether category records move. It is whether the target store can still reproduce the browsing logic and category behavior the business depends on. Where a store relies heavily on non-standard hierarchy handling, custom menu structures, or special grouping behavior, standard handling may preserve records without preserving discovery quality. In those cases, a Custom Job or Custom Migration Service may be the safer path.
+
+### What merchants should define before execution
+
+Before approving a full migration, the business should be able to answer a few core questions clearly.
+
+#### 1. Which category paths matter most to revenue?
+
+These are the browse journeys that deserve early review because even small structural changes can affect visibility and conversion.
+
+#### 2. Which categories act as primary discovery pages?
+
+Some categories are simple containers. Others are key entry points for shopping behavior and should be treated accordingly.
+
+#### 3. Which products must appear in specific categories to preserve buying intent?
+
+This matters when customers rely on category placement to understand relevance, not just product existence.
+
+#### 4. Where does merchandising order matter?
+
+Featured items, curated sequences, and high-visibility placements often shape what gets seen and sold.
+
+#### 5. Which parts of catalog navigation depend on custom menus, rules, or extensions?
+
+This is where apparently complete category data can still fail to preserve the expected browse experience after launch.
+
+### What to validate first
+
+Catalog structure should be validated through browsing behavior, not only through hierarchy checks.
+
+A practical first review should focus on:
+
+* top revenue categories
+* top organic-traffic categories
+* common browse-to-product paths that lead to best sellers
+* categories where manual ordering or featured placement matters
+* category pages with strong landing-page intent
+* category paths influenced by custom menu or grouping logic
+
+The first questions to ask are:
+
+* do customers reach the expected products through the same high-value paths?
+* are the right products assigned to the categories that drive sales?
+* does ordering still support the intended browse experience?
+* do category pages still reflect the same shopper expectation and product set?
+* do high-impact browse journeys still feel intuitive and commercially usable?
+
+A useful validation sample is usually representative rather than random. It should include the category structures and browse paths that matter most to revenue and discovery. A Demo Migration is often the fastest way to expose whether the target representation still supports those paths before the project scales further.
+
+### When standard handling may not be enough
+
+Not every layered catalog requires bespoke handling. But some signals should raise the threshold for confidence.
+
+Risk is higher when:
+
+* the category tree is deep or heavily layered
+* customers browse categories before they search
+* grouping logic depends on rules, tags, or special handling
+* manual ordering or curation materially affects conversion
+* category pages act as important landing pages
+* the target platform represents hierarchy differently from the source platform
+
+In those situations, the real issue is not whether categories can move. It is whether the target store can preserve the same discovery behavior clearly enough through standard handling alone. If reliable navigation depends on preserving non-standard hierarchy behavior, special grouping logic, or commercially important merchandising patterns, Managed Migration Service or Custom Migration Service may be the safer path, with Custom Jobs used where scoped adjustments are required.
+
+### Conclusion
+
+Category migration succeeds when customers can still browse to the right products through the paths that matter to the business.
+
+A catalog can preserve category names, product assignments, and visible structure while still weakening discovery if hierarchy logic, grouping behavior, ordering, or landing-page intent changes. That is why category-heavy catalogs should be judged by browse continuity and discovery quality, not only by whether categories exist after migration.
+
+If your store depends on deep navigation, curated category paths, or category pages that carry strong commercial value, use a Demo Migration to review representative browse journeys early. Where the sample shows that standard handling preserves records but weakens discovery behavior, Live Chat can help determine whether Standard Migration Service remains suitable or whether Managed Migration Service, Custom Migration Service, or a Custom Job is the safer path.
+
+### FAQs
+
+<details>
+
+<summary><strong>Why can categories migrate correctly and still feel wrong after launch?</strong></summary>
+
+Because navigation quality depends on more than category existence. Assignment logic, ordering, grouping behavior, and landing-page intent can all change the browsing experience even when category names and product totals look correct.
+
+</details>
+
+<details>
+
+<summary><strong>What should be reviewed first in a category-heavy catalog?</strong></summary>
+
+Start with top revenue categories, top organic-traffic categories, and the browse paths customers use most often to reach best sellers. These are the areas where navigation changes are most likely to affect commercial performance.
+
+</details>
+
+<details>
+
+<summary><strong>Why does category hierarchy become difficult when moving to a different platform?</strong></summary>
+
+Because platforms do not always represent category relationships the same way. Some rely on strict trees, while others depend more on collections, menu structures, or flexible groupings. That difference can change how the storefront expresses the same catalog structure.
+
+</details>
+
+<details>
+
+<summary><strong>Can custom menus or grouping rules affect category migration outcomes?</strong></summary>
+
+Yes. A store may rely on custom menu structures, special grouping logic, or theme-driven navigation behavior that is separate from the core category records. In those cases, preserving category data alone may not preserve the browsing experience customers expect.
+
+</details>
+
+<details>
+
+<summary><strong>When is a Custom Job more likely to be necessary for catalog structure?</strong></summary>
+
+Usually when category continuity depends on non-standard hierarchy handling, special menu structures, or browse logic that the target platform does not reproduce cleanly through standard handling alone.
+
+</details>
